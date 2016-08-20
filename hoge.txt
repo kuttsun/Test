@@ -6,3 +6,7 @@ hoge
 piyo
 foo
 bar
+hoge
+piyo
+foo
+bar
